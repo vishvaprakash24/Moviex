@@ -29,6 +29,9 @@ const Footer = () => {
                     Duis aute irure dolor in reprehenderit in voluptate velit
                     esse cillum dolore eu fugiat nulla pariatur.
                 </div>
+                <div className="infoText">
+                    website made by @VishvaPrakashMaddheshiya
+                </div>
                 <div className="socialIcons">
                     <span className="icon">
                         <FaFacebookF />
